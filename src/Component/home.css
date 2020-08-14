@@ -1,0 +1,20 @@
+.container{
+    display: block;
+    box-sizing: border-box;
+    width: 700px;
+    border: 1px solid grey;
+    margin: 10px auto;
+    padding: 10px;
+}
+
+.button{
+    color:red;
+    margin-left: 550px;
+    font-weight: bold;
+    font-size: 12px;
+}
+.button:hover{
+    cursor: pointer;
+    color:brown;
+    
+}
